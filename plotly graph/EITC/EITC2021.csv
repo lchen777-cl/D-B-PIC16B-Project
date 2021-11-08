@@ -1,0 +1,58 @@
+﻿State,Abbrev,Code,EITC,Year,Refundable,Note
+Alabama,Ala.,AL,0%,N/A,N/A, 
+Alaska,Alaska,AK,0%,N/A,N/A, 
+Arizona,Ariz.,AZ,0%,N/A,N/A, 
+Arkansas,Ark.,AR,0%,N/A,N/A, 
+California,Calif.,CA,85%,2015,Yes,"85 percent for those earning up to $30,000"
+Colorado,Colo.,CO,10%,"1999, 2013",Yes, 
+Connecticut,Conn.,CT,23%,2011,Yes, 
+Delaware,Del.,DE,20%,2005,No, 
+District of Columbia,D.C.,DC,40%,2000,Yes, 
+Florida,Fla.,FL,0%,N/A,N/A, 
+Georgia,Ga.,GA,0%,N/A,N/A, 
+Hawaii,Hawaii,HI,20%,2017,No, 
+Idaho,Idaho,ID,0%,N/A,N/A, 
+Illinois,Ill.,IL,18%,2000,Yes, 
+Indiana,Ind.,IN,9%,1999,Yes, 
+Iowa,Iowa,IA,15%,1989,Yes, 
+Kansas,Kans.,KS,17%,1998,Yes, 
+Kentucky,Ky.,KY,0%,N/A,N/A, 
+Louisiana,La.,LA,5%,2007,Yes, 
+Maine,Maine,ME,12%,2000,Yes,"25 percent for workers without dependent children, <br>
+12 percent for all other eligible filers"
+Maryland,Md.,MD,28%,1987,Yes,Refundable - 28% Non-refundable – 50%
+Massachusetts,Mass.,MA,30%,1997,Yes, 
+Michigan,Mich.,MI,6%,2006,Yes, 
+Minnesota,Minn.,MN,34%,1991,Yes,"34 percent on average (calculated as total projected state spending for <br>
+the Working Family Credit divided by projected federal spending on the EITC <br>
+in Minnesota as modeled by Minnesota’s House Research  Department; <br>
+this average fluctuates from year to year."
+Mississippi,Miss.,MS,0%,N/A,N/A,
+Missouri,Mo.,MO,0%,N/A,N/A,
+Montana,Mont.,MT,3%,2017,Yes,
+Nebraska,Nebr.,NE,10%,2006,Yes,
+Nevada,Nev.,NV,0%,N/A,N/A,
+New Hampshire,N.H.,NH,0%,N/A,N/A,
+New Jersey,N.J.,NJ,37%,2000,Yes,
+New Mexico,N.M.,NM,10%,2007,Yes,
+New York,N.Y.,NY,30%,1994,Yes,
+North Carolina,N.C.,NC,0%,N/A,N/A,
+North Dakota,N.D.,ND,0%,N/A,N/A,
+Ohio,Ohio,OH,10%,2013,No,"10 percent, limited to 50 percent of liability for Ohio taxable income above $20,000"
+Oklahoma,Okla.,OK,5%,2002,No, 
+Oregon,Ore.,OR,9%,1997,Yes,"12 percent for filers with children under the age of three, <br>
+9 percent for all other eligible filers"
+Pennsylvania,Pa.,PA,0%,N/A,N/A, 
+Rhode Island,R.I.,RI,15%,1986,Yes, 
+South Carolina,S.C.,SC,125%,2017,No, 
+South Dakota,S.D.,SD,0%,N/A,N/A, 
+Tennessee,Tenn.,TN,0%,N/A,N/A, 
+Texas,Tex.,TX,0%,N/A,N/A, 
+Utah,Utah,UT,0%,N/A,N/A, 
+Vermont,Vt.,VT,36%,1988,Yes, 
+Virginia,Va.,VA,20%,2004,No, 
+Washington,Wash.,WA,0%,2008 (but not yet implemented),Yes,Originally scheduled to be 10 percent or $50
+West Virginia,W.Va.,WV,0%,N/A,N/A, 
+Wisconsin,Wis.,WI,11%,1989,Yes,"One child – 4 percent, Two children – 11 percent, <br>
+Three children —34 percent"
+Wyoming,Wyo.,WY,0%,N/A,N/A, 
