@@ -1,52 +1,53 @@
-﻿State,Abbrev,Code,Family,Proportion
-Alabama,Ala.,AL,503000,1.86%
-Alaska,Alaska,AK,49000,0.18%
-Arizona,Ariz.,AZ,595000,2.20%
-Arkansas,Ark.,AR,299000,1.10%
-California,Calif.,CA,3080000,11.37%
-Colorado,Colo.,CO,364000,1.34%
-Connecticut,Conn.,CT,226000,0.83%
-Delaware,Del.,DE,75000,0.28%
-District of Columbia,D.C.,DC,53000,0.20%
-Florida,Fla.,FL,2175000,8.03%
-Georgia,Ga.,GA,1096000,4.05%
-Hawaii,Hawaii,HI,103000,0.38%
-Idaho,Idaho,ID,134000,0.49%
-Illinois,Ill.,IL,999000,3.69%
-Indiana,Ind.,IN,544000,2.01%
-Iowa,Iowa,IA,205000,0.76%
-Kansas,Kans.,KS,209000,0.77%
-Kentucky,Ky.,KY,400000,1.48%
-Louisiana,La.,LA,517000,1.91%
-Maine,Maine,ME,102000,0.38%
-Maryland,Md.,MD,420000,1.55%
-Massachusetts,Mass.,MA,404000,1.49%
-Michigan,Mich.,MI,799000,2.95%
-Minnesota,Minn.,MN,339000,1.25%
-Mississippi,Miss.,MS,378000,1.40%
-Missouri,Mo.,MO,508000,1.88%
-Montana,Mont.,MT,79000,0.29%
-Nebraska,Nebr.,NE,132000,0.49%
-Nevada,Nev.,NV,263000,0.97%
-New Hampshire,N.H.,NH,76000,0.28%
-New Jersey,N.J.,NJ,613000,2.26%
-New Mexico,N.M.,NM,214000,0.79%
-New York,N.Y.,NY,1758000,6.49%
-North Carolina,N.C.,NC,941000,3.48%
-North Dakota,N.D.,ND,42000,0.16%
-Ohio,Ohio,OH,947000,3.50%
-Oklahoma,Okla.,OK,344000,1.27%
-Oregon,Ore.,OR,281000,1.04%
-Pennsylvania,Pa.,PA,942000,3.48%
-Rhode Island,R.I.,RI,84000,0.31%
-South Carolina,S.C.,SC,496000,1.83%
-South Dakota,S.D.,SD,61000,0.23%
-Tennessee,Tenn.,TN,645000,2.38%
-Texas,Tex.,TX,2708000,10.00%
-Utah,Utah,UT,194000,0.72%
-Vermont,Vt.,VT,44000,0.16%
-Virginia,Va.,VA,617000,2.28%
-Washington,Wash.,WA,448000,1.65%
-West Virginia,W.Va.,WV,155000,0.57%
-Wisconsin,Wis.,WI,380000,1.40%
-Wyoming,Wyo.,WY,37000,0.14%
+﻿State,Abbrev,Code,Family,Proportion,Share of Returns 2016,Share of Returns 2018
+Alabama,Ala.,AL,503000,1.86%,18.23%,17.04%
+Alaska,Alaska,AK,49000,0.18%,24.72%,23.36%
+Arizona,Ariz.,AZ,595000,2.20%,14.24%,13.17%
+Arkansas,Ark.,AR,299000,1.10%,20.36%,18.64%
+California,Calif.,CA,3080000,11.37%,24.64%,23.35%
+Colorado,Colo.,CO,364000,1.34%,17.46%,16.10%
+Connecticut,Conn.,CT,226000,0.83%,13.91%,12.42%
+Delaware,Del.,DE,75000,0.28%,12.98%,12.52%
+District of Columbia,D.C.,DC,53000,0.20%,16.62%,15.72%
+Florida,Fla.,FL,2175000,8.03%,15.75%,14.34%
+Georgia,Ga.,GA,1096000,4.05%,22.65%,21.31%
+Hawaii,Hawaii,HI,103000,0.38%,24.85%,23.39%
+Idaho,Idaho,ID,134000,0.49%,15.22%,13.95%
+Illinois,Ill.,IL,999000,3.69%,18.35%,16.34%
+Indiana,Ind.,IN,544000,2.01%,16.52%,15.42%
+Iowa,Iowa,IA,205000,0.76%,17.65%,16.50%
+Kansas,Kans.,KS,209000,0.77%,14.44%,13.62%
+Kentucky,Ky.,KY,400000,1.48%,16.03%,14.99%
+Louisiana,La.,LA,517000,1.91%,21.11%,20.09%
+Maine,Maine,ME,102000,0.38%,26.44%,25.52%
+Maryland,Md.,MD,420000,1.55%,15.84%,14.56%
+Massachusetts,Mass.,MA,404000,1.49%,14.35%,13.54%
+Michigan,Mich.,MI,799000,2.95%,11.98%,11.25%
+Minnesota,Minn.,MN,339000,1.25%,17.05%,15.96%
+Mississippi,Miss.,MS,378000,1.40%,12.55%,11.60%
+Missouri,Mo.,MO,508000,1.88%,30.88%,29.68%
+Montana,Mont.,MT,79000,0.29%,18.43%,17.38%
+Nebraska,Nebr.,NE,132000,0.49%,16.22%,14.91%
+Nevada,Nev.,NV,263000,0.97%,15.03%,14.15%
+New Hampshire,N.H.,NH,76000,0.28%,19.21%,18.07%
+New Jersey,N.J.,NJ,613000,2.26%,11.07%,10.13%
+New Mexico,N.M.,NM,214000,0.79%,14.11%,13.43%
+New York,N.Y.,NY,1758000,6.49%,23.75%,21.99%
+North Carolina,N.C.,NC,941000,3.48%,18.49%,17.06%
+North Dakota,N.D.,ND,42000,0.16%,20.99%,19.69%
+Ohio,Ohio,OH,947000,3.50%,12.33%,11.76%
+Oklahoma,Okla.,OK,344000,1.27%,17.09%,16.06%
+Oregon,Ore.,OR,281000,1.04%,21.44%,20.18%
+Pennsylvania,Pa.,PA,942000,3.48%,15.00%,13.50%
+Rhode Island,R.I.,RI,84000,0.31%,15.35%,14.49%
+South Carolina,S.C.,SC,496000,1.83%,15.98%,15.04%
+South Dakota,S.D.,SD,61000,0.23%,22.61%,21.04%
+Tennessee,Tenn.,TN,645000,2.38%,15.17%,14.17%
+Texas,Tex.,TX,2708000,10.00%,21.69%,20.22%
+Utah,Utah,UT,194000,0.72%,22.46%,21.13%
+Vermont,Vt.,VT,44000,0.16%,15.18%,13.59%
+Virginia,Va.,VA,617000,2.28%,13.68%,12.67%
+Washington,Wash.,WA,448000,1.65%,15.91%,14.98%
+West Virginia,W.Va.,WV,155000,0.57%,12.96%,11.50%
+Wisconsin,Wis.,WI,380000,1.40%,20.38%,18.72%
+Wyoming,Wyo.,WY,37000,0.14%,13.52%,12.48%
+,,,,,0.142766992,0.129065301
