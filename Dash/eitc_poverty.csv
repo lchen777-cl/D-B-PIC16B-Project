@@ -1,0 +1,1041 @@
+States,Code_x,Year,Amount,State,Code_y,Poverty,code
+United States,52,1999,31479,,,,
+United States,52,2000,31773,,,,
+United States,52,2001,33244,,,,
+United States,52,2002,37787,,,,
+United States,52,2003,39128,,,,
+United States,52,2004,40716,,,,
+United States,52,2005,42636,,,,
+United States,52,2006,44651,,,,
+United States,52,2007,48712,,,,
+United States,52,2008,50720,,,,
+United States,52,2009,59697,,,,
+United States,52,2010,60594,,,,
+United States,52,2011,62953,,,,
+United States,52,2012,64222,,,,
+United States,52,2013,67277,,,,
+United States,52,2014,67720,,,,
+United States,52,2015,68062,,,,
+United States,52,2016,66144,,,,
+United States,52,2017,65290,,,,
+United States,52,2018,64061,,,,
+Alabama,1,1999,798,Alabama,AL,15.2,al
+Alabama,1,2000,819,Alabama,AL,13.3,al
+Alabama,1,2001,850,Alabama,AL,15.9,al
+Alabama,1,2002,946,Alabama,AL,14.5,al
+Alabama,1,2003,981,Alabama,AL,15.0,al
+Alabama,1,2004,1023,Alabama,AL,16.9,al
+Alabama,1,2005,1090,Alabama,AL,16.7,al
+Alabama,1,2006,1140,Alabama,AL,14.3,al
+Alabama,1,2007,1221,Alabama,AL,14.5,al
+Alabama,1,2008,1237,Alabama,AL,14.3,al
+Alabama,1,2009,1395,Alabama,AL,16.6,al
+Alabama,1,2010,1380,Alabama,AL,17.2,al
+Alabama,1,2011,1414,Alabama,AL,16.2,al
+Alabama,1,2012,1418,Alabama,AL,16.2,al
+Alabama,1,2013,1438,Alabama,AL,16.7,al
+Alabama,1,2014,1445,Alabama,AL,17.8,al
+Alabama,1,2015,1445,Alabama,AL,16.3,al
+Alabama,1,2016,1392,Alabama,AL,16.2,al
+Alabama,1,2017,1378,Alabama,AL,15.0,al
+Alabama,1,2018,1349,Alabama,AL,16.0,al
+Alaska,2,1999,40,Alaska,AK,7.6,ak
+Alaska,2,2000,40,Alaska,AK,7.6,ak
+Alaska,2,2001,43,Alaska,AK,8.5,ak
+Alaska,2,2002,54,Alaska,AK,8.8,ak
+Alaska,2,2003,58,Alaska,AK,9.6,ak
+Alaska,2,2004,62,Alaska,AK,9.1,ak
+Alaska,2,2005,66,Alaska,AK,10.0,ak
+Alaska,2,2006,69,Alaska,AK,8.9,ak
+Alaska,2,2007,70,Alaska,AK,7.6,ak
+Alaska,2,2008,62,Alaska,AK,8.2,ak
+Alaska,2,2009,94,Alaska,AK,11.7,ak
+Alaska,2,2010,91,Alaska,AK,12.5,ak
+Alaska,2,2011,98,Alaska,AK,10.0,ak
+Alaska,2,2012,102,Alaska,AK,10.0,ak
+Alaska,2,2013,104,Alaska,AK,10.9,ak
+Alaska,2,2014,99,Alaska,AK,11.9,ak
+Alaska,2,2015,99,Alaska,AK,9.2,ak
+Alaska,2,2016,104,Alaska,AK,12.6,ak
+Alaska,2,2017,102,Alaska,AK,14.4,ak
+Alaska,2,2018,97,Alaska,AK,13.1,ak
+Arizona,3,1999,562,Arizona,AZ,12.2,az
+Arizona,3,2000,563,Arizona,AZ,11.7,az
+Arizona,3,2001,589,Arizona,AZ,14.6,az
+Arizona,3,2002,681,Arizona,AZ,13.5,az
+Arizona,3,2003,710,Arizona,AZ,13.5,az
+Arizona,3,2004,739,Arizona,AZ,14.4,az
+Arizona,3,2005,771,Arizona,AZ,15.2,az
+Arizona,3,2006,818,Arizona,AZ,14.4,az
+Arizona,3,2007,924,Arizona,AZ,14.3,az
+Arizona,3,2008,1001,Arizona,AZ,18.0,az
+Arizona,3,2009,1247,Arizona,AZ,21.2,az
+Arizona,3,2010,1295,Arizona,AZ,18.8,az
+Arizona,3,2011,1381,Arizona,AZ,19.0,az
+Arizona,3,2012,1410,Arizona,AZ,19.0,az
+Arizona,3,2013,1489,Arizona,AZ,20.2,az
+Arizona,3,2014,1523,Arizona,AZ,21.2,az
+Arizona,3,2015,1558,Arizona,AZ,17.2,az
+Arizona,3,2016,1525,Arizona,AZ,16.1,az
+Arizona,3,2017,1505,Arizona,AZ,13.2,az
+Arizona,3,2018,1480,Arizona,AZ,12.8,az
+Arkansas,4,1999,432,Arkansas,AR,14.7,ar
+Arkansas,4,2000,440,Arkansas,AR,16.5,ar
+Arkansas,4,2001,458,Arkansas,AR,17.8,ar
+Arkansas,4,2002,516,Arkansas,AR,19.8,ar
+Arkansas,4,2003,529,Arkansas,AR,17.8,ar
+Arkansas,4,2004,546,Arkansas,AR,15.1,ar
+Arkansas,4,2005,574,Arkansas,AR,13.8,ar
+Arkansas,4,2006,596,Arkansas,AR,17.7,ar
+Arkansas,4,2007,638,Arkansas,AR,13.8,ar
+Arkansas,4,2008,656,Arkansas,AR,15.3,ar
+Arkansas,4,2009,746,Arkansas,AR,18.9,ar
+Arkansas,4,2010,741,Arkansas,AR,15.3,ar
+Arkansas,4,2011,760,Arkansas,AR,20.1,ar
+Arkansas,4,2012,764,Arkansas,AR,20.1,ar
+Arkansas,4,2013,789,Arkansas,AR,17.1,ar
+Arkansas,4,2014,795,Arkansas,AR,18.4,ar
+Arkansas,4,2015,807,Arkansas,AR,16.1,ar
+Arkansas,4,2016,790,Arkansas,AR,16.0,ar
+Arkansas,4,2017,783,Arkansas,AR,14.8,ar
+Arkansas,4,2018,773,Arkansas,AR,15.9,ar
+California,5,1999,3869,California,CA,14.0,ca
+California,5,2000,3778,California,CA,12.7,ca
+California,5,2001,3871,California,CA,12.6,ca
+California,5,2002,4319,California,CA,13.1,ca
+California,5,2003,4382,California,CA,13.1,ca
+California,5,2004,4449,California,CA,13.2,ca
+California,5,2005,4576,California,CA,13.2,ca
+California,5,2006,4750,California,CA,12.2,ca
+California,5,2007,5311,California,CA,12.7,ca
+California,5,2008,5481,California,CA,14.6,ca
+California,5,2009,6641,California,CA,15.3,ca
+California,5,2010,6858,California,CA,16.3,ca
+California,5,2011,7251,California,CA,15.9,ca
+California,5,2012,7290,California,CA,15.9,ca
+California,5,2013,7670,California,CA,14.9,ca
+California,5,2014,7748,California,CA,15.8,ca
+California,5,2015,7656,California,CA,13.9,ca
+California,5,2016,7196,California,CA,13.9,ca
+California,5,2017,6995,California,CA,12.4,ca
+California,5,2018,6740,California,CA,11.9,ca
+Colorado,6,1999,336,Colorado,CO,8.5,co
+Colorado,6,2000,330,Colorado,CO,9.8,co
+Colorado,6,2001,342,Colorado,CO,8.7,co
+Colorado,6,2002,404,Colorado,CO,9.8,co
+Colorado,6,2003,426,Colorado,CO,9.7,co
+Colorado,6,2004,440,Colorado,CO,10.0,co
+Colorado,6,2005,461,Colorado,CO,11.4,co
+Colorado,6,2006,483,Colorado,CO,9.7,co
+Colorado,6,2007,530,Colorado,CO,9.8,co
+Colorado,6,2008,564,Colorado,CO,11.0,co
+Colorado,6,2009,704,Colorado,CO,12.3,co
+Colorado,6,2010,718,Colorado,CO,12.3,co
+Colorado,6,2011,757,Colorado,CO,11.9,co
+Colorado,6,2012,775,Colorado,CO,11.9,co
+Colorado,6,2013,813,Colorado,CO,10.6,co
+Colorado,6,2014,810,Colorado,CO,12.3,co
+Colorado,6,2015,815,Colorado,CO,9.9,co
+Colorado,6,2016,793,Colorado,CO,8.5,co
+Colorado,6,2017,772,Colorado,CO,7.7,co
+Colorado,6,2018,745,Colorado,CO,9.1,co
+Connecticut,7,1999,214,Connecticut,CT,7.2,ct
+Connecticut,7,2000,214,Connecticut,CT,7.7,ct
+Connecticut,7,2001,223,Connecticut,CT,7.3,ct
+Connecticut,7,2002,251,Connecticut,CT,8.3,ct
+Connecticut,7,2003,263,Connecticut,CT,8.1,ct
+Connecticut,7,2004,273,Connecticut,CT,10.1,ct
+Connecticut,7,2005,286,Connecticut,CT,9.3,ct
+Connecticut,7,2006,302,Connecticut,CT,8.0,ct
+Connecticut,7,2007,333,Connecticut,CT,8.9,ct
+Connecticut,7,2008,346,Connecticut,CT,8.1,ct
+Connecticut,7,2009,402,Connecticut,CT,8.4,ct
+Connecticut,7,2010,405,Connecticut,CT,8.6,ct
+Connecticut,7,2011,432,Connecticut,CT,10.3,ct
+Connecticut,7,2012,453,Connecticut,CT,10.3,ct
+Connecticut,7,2013,489,Connecticut,CT,11.3,ct
+Connecticut,7,2014,497,Connecticut,CT,8.6,ct
+Connecticut,7,2015,501,Connecticut,CT,9.1,ct
+Connecticut,7,2016,495,Connecticut,CT,9.8,ct
+Connecticut,7,2017,493,Connecticut,CT,10.9,ct
+Connecticut,7,2018,492,Connecticut,CT,10.2,ct
+Delaware,8,1999,78,Delaware,DE,10.4,de
+Delaware,8,2000,79,Delaware,DE,8.4,de
+Delaware,8,2001,82,Delaware,DE,6.7,de
+Delaware,8,2002,94,Delaware,DE,9.1,de
+Delaware,8,2003,97,Delaware,DE,7.3,de
+Delaware,8,2004,101,Delaware,DE,9.0,de
+Delaware,8,2005,108,Delaware,DE,9.2,de
+Delaware,8,2006,112,Delaware,DE,9.3,de
+Delaware,8,2007,122,Delaware,DE,9.3,de
+Delaware,8,2008,128,Delaware,DE,9.6,de
+Delaware,8,2009,148,Delaware,DE,12.3,de
+Delaware,8,2010,152,Delaware,DE,12.2,de
+Delaware,8,2011,159,Delaware,DE,13.5,de
+Delaware,8,2012,166,Delaware,DE,13.5,de
+Delaware,8,2013,174,Delaware,DE,14.0,de
+Delaware,8,2014,178,Delaware,DE,11.0,de
+Delaware,8,2015,181,Delaware,DE,11.1,de
+Delaware,8,2016,178,Delaware,DE,11.6,de
+Delaware,8,2017,177,Delaware,DE,9.2,de
+Delaware,8,2018,176,Delaware,DE,7.4,de
+District of Columbia,9,1999,84,District of Columbia,DC,14.7,dc
+District of Columbia,9,2000,84,District of Columbia,DC,15.2,dc
+District of Columbia,9,2001,84,District of Columbia,DC,18.2,dc
+District of Columbia,9,2002,89,District of Columbia,DC,17.0,dc
+District of Columbia,9,2003,87,District of Columbia,DC,16.8,dc
+District of Columbia,9,2004,86,District of Columbia,DC,17.0,dc
+District of Columbia,9,2005,88,District of Columbia,DC,21.3,dc
+District of Columbia,9,2006,89,District of Columbia,DC,18.3,dc
+District of Columbia,9,2007,92,District of Columbia,DC,18.0,dc
+District of Columbia,9,2008,94,District of Columbia,DC,16.5,dc
+District of Columbia,9,2009,108,District of Columbia,DC,17.9,dc
+District of Columbia,9,2010,112,District of Columbia,DC,19.5,dc
+District of Columbia,9,2011,128,District of Columbia,DC,18.4,dc
+District of Columbia,9,2012,123,District of Columbia,DC,18.4,dc
+District of Columbia,9,2013,128,District of Columbia,DC,21.3,dc
+District of Columbia,9,2014,130,District of Columbia,DC,19.0,dc
+District of Columbia,9,2015,127,District of Columbia,DC,16.6,dc
+District of Columbia,9,2016,123,District of Columbia,DC,16.3,dc
+District of Columbia,9,2017,121,District of Columbia,DC,13.6,dc
+District of Columbia,9,2018,117,District of Columbia,DC,14.7,dc
+Florida,10,1999,2118,Florida,FL,12.4,fl
+Florida,10,2000,2181,Florida,FL,11.0,fl
+Florida,10,2001,2323,Florida,FL,12.7,fl
+Florida,10,2002,2680,Florida,FL,12.6,fl
+Florida,10,2003,2807,Florida,FL,12.7,fl
+Florida,10,2004,2934,Florida,FL,11.6,fl
+Florida,10,2005,3054,Florida,FL,11.1,fl
+Florida,10,2006,3206,Florida,FL,11.5,fl
+Florida,10,2007,3580,Florida,FL,12.5,fl
+Florida,10,2008,3825,Florida,FL,13.1,fl
+Florida,10,2009,4523,Florida,FL,14.6,fl
+Florida,10,2010,4679,Florida,FL,16.0,fl
+Florida,10,2011,4841,Florida,FL,15.3,fl
+Florida,10,2012,5100,Florida,FL,15.3,fl
+Florida,10,2013,5353,Florida,FL,14.9,fl
+Florida,10,2014,5404,Florida,FL,16.7,fl
+Florida,10,2015,5455,Florida,FL,16.2,fl
+Florida,10,2016,5350,Florida,FL,13.0,fl
+Florida,10,2017,5431,Florida,FL,13.7,fl
+Florida,10,2018,5377,Florida,FL,13.7,fl
+Georgia,11,1999,1228,Georgia,GA,12.8,ga
+Georgia,11,2000,1271,Georgia,GA,12.1,ga
+Georgia,11,2001,1352,Georgia,GA,12.9,ga
+Georgia,11,2002,1551,Georgia,GA,11.2,ga
+Georgia,11,2003,1643,Georgia,GA,11.9,ga
+Georgia,11,2004,1732,Georgia,GA,13.0,ga
+Georgia,11,2005,1876,Georgia,GA,14.4,ga
+Georgia,11,2006,2010,Georgia,GA,12.6,ga
+Georgia,11,2007,2220,Georgia,GA,13.6,ga
+Georgia,11,2008,2339,Georgia,GA,15.5,ga
+Georgia,11,2009,2689,Georgia,GA,18.4,ga
+Georgia,11,2010,2764,Georgia,GA,18.8,ga
+Georgia,11,2011,2833,Georgia,GA,18.1,ga
+Georgia,11,2012,2901,Georgia,GA,18.1,ga
+Georgia,11,2013,3029,Georgia,GA,16.3,ga
+Georgia,11,2014,3064,Georgia,GA,16.8,ga
+Georgia,11,2015,3098,Georgia,GA,18.1,ga
+Georgia,11,2016,2998,Georgia,GA,15.4,ga
+Georgia,11,2017,2973,Georgia,GA,13.3,ga
+Georgia,11,2018,2945,Georgia,GA,14.8,ga
+Hawaii,12,1999,92,Hawaii,HI,10.8,hi
+Hawaii,12,2000,94,Hawaii,HI,8.9,hi
+Hawaii,12,2001,103,Hawaii,HI,11.4,hi
+Hawaii,12,2002,128,Hawaii,HI,11.3,hi
+Hawaii,12,2003,133,Hawaii,HI,9.3,hi
+Hawaii,12,2004,141,Hawaii,HI,8.6,hi
+Hawaii,12,2005,144,Hawaii,HI,8.6,hi
+Hawaii,12,2006,151,Hawaii,HI,9.2,hi
+Hawaii,12,2007,165,Hawaii,HI,7.5,hi
+Hawaii,12,2008,173,Hawaii,HI,9.9,hi
+Hawaii,12,2009,213,Hawaii,HI,12.5,hi
+Hawaii,12,2010,223,Hawaii,HI,12.4,hi
+Hawaii,12,2011,236,Hawaii,HI,13.8,hi
+Hawaii,12,2012,240,Hawaii,HI,13.8,hi
+Hawaii,12,2013,247,Hawaii,HI,11.1,hi
+Hawaii,12,2014,247,Hawaii,HI,10.8,hi
+Hawaii,12,2015,239,Hawaii,HI,10.9,hi
+Hawaii,12,2016,223,Hawaii,HI,9.3,hi
+Hawaii,12,2017,216,Hawaii,HI,10.3,hi
+Hawaii,12,2018,209,Hawaii,HI,9.2,hi
+Idaho,13,1999,130,Idaho,ID,14.1,id
+Idaho,13,2000,130,Idaho,ID,12.5,id
+Idaho,13,2001,139,Idaho,ID,11.5,id
+Idaho,13,2002,165,Idaho,ID,11.3,id
+Idaho,13,2003,172,Idaho,ID,10.2,id
+Idaho,13,2004,179,Idaho,ID,9.9,id
+Idaho,13,2005,189,Idaho,ID,9.9,id
+Idaho,13,2006,196,Idaho,ID,9.5,id
+Idaho,13,2007,215,Idaho,ID,9.9,id
+Idaho,13,2008,233,Idaho,ID,12.2,id
+Idaho,13,2009,293,Idaho,ID,13.7,id
+Idaho,13,2010,295,Idaho,ID,13.8,id
+Idaho,13,2011,302,Idaho,ID,14.4,id
+Idaho,13,2012,308,Idaho,ID,14.4,id
+Idaho,13,2013,319,Idaho,ID,12.9,id
+Idaho,13,2014,317,Idaho,ID,12.4,id
+Idaho,13,2015,319,Idaho,ID,12.3,id
+Idaho,13,2016,312,Idaho,ID,11.1,id
+Idaho,13,2017,303,Idaho,ID,11.7,id
+Idaho,13,2018,294,Idaho,ID,11.5,id
+Illinois,14,1999,1207,Illinois,IL,9.9,il
+Illinois,14,2000,1228,Illinois,IL,10.7,il
+Illinois,14,2001,1279,Illinois,IL,10.1,il
+Illinois,14,2002,1437,Illinois,IL,12.8,il
+Illinois,14,2003,1501,Illinois,IL,12.6,il
+Illinois,14,2004,1577,Illinois,IL,12.3,il
+Illinois,14,2005,1669,Illinois,IL,11.5,il
+Illinois,14,2006,1748,Illinois,IL,10.6,il
+Illinois,14,2007,1895,Illinois,IL,10.0,il
+Illinois,14,2008,1979,Illinois,IL,12.3,il
+Illinois,14,2009,2286,Illinois,IL,13.2,il
+Illinois,14,2010,2315,Illinois,IL,14.1,il
+Illinois,14,2011,2418,Illinois,IL,12.6,il
+Illinois,14,2012,2452,Illinois,IL,12.6,il
+Illinois,14,2013,2539,Illinois,IL,13.3,il
+Illinois,14,2014,2582,Illinois,IL,13.7,il
+Illinois,14,2015,2574,Illinois,IL,10.9,il
+Illinois,14,2016,2484,Illinois,IL,12.1,il
+Illinois,14,2017,2419,Illinois,IL,10.9,il
+Illinois,14,2018,2342,Illinois,IL,10.3,il
+Indiana,15,1999,557,Indiana,IN,6.7,in
+Indiana,15,2000,570,Indiana,IN,8.5,in
+Indiana,15,2001,601,Indiana,IN,8.5,in
+Indiana,15,2002,692,Indiana,IN,9.1,in
+Indiana,15,2003,718,Indiana,IN,9.9,in
+Indiana,15,2004,757,Indiana,IN,11.6,in
+Indiana,15,2005,803,Indiana,IN,12.6,in
+Indiana,15,2006,852,Indiana,IN,10.6,in
+Indiana,15,2007,934,Indiana,IN,11.8,in
+Indiana,15,2008,998,Indiana,IN,14.3,in
+Indiana,15,2009,1180,Indiana,IN,16.1,in
+Indiana,15,2010,1184,Indiana,IN,16.3,in
+Indiana,15,2011,1242,Indiana,IN,15.2,in
+Indiana,15,2012,1273,Indiana,IN,15.2,in
+Indiana,15,2013,1334,Indiana,IN,11.6,in
+Indiana,15,2014,1349,Indiana,IN,14.6,in
+Indiana,15,2015,1351,Indiana,IN,13.5,in
+Indiana,15,2016,1310,Indiana,IN,11.8,in
+Indiana,15,2017,1281,Indiana,IN,11.4,in
+Indiana,15,2018,1259,Indiana,IN,11.6,in
+Iowa,16,1999,211,Iowa,IA,7.4,ia
+Iowa,16,2000,213,Iowa,IA,8.3,ia
+Iowa,16,2001,222,Iowa,IA,7.4,ia
+Iowa,16,2002,263,Iowa,IA,9.2,ia
+Iowa,16,2003,271,Iowa,IA,8.9,ia
+Iowa,16,2004,280,Iowa,IA,10.9,ia
+Iowa,16,2005,295,Iowa,IA,11.3,ia
+Iowa,16,2006,313,Iowa,IA,10.3,ia
+Iowa,16,2007,342,Iowa,IA,8.9,ia
+Iowa,16,2008,358,Iowa,IA,9.5,ia
+Iowa,16,2009,430,Iowa,IA,10.7,ia
+Iowa,16,2010,424,Iowa,IA,10.3,ia
+Iowa,16,2011,437,Iowa,IA,10.3,ia
+Iowa,16,2012,452,Iowa,IA,10.3,ia
+Iowa,16,2013,474,Iowa,IA,10.8,ia
+Iowa,16,2014,477,Iowa,IA,10.3,ia
+Iowa,16,2015,483,Iowa,IA,10.4,ia
+Iowa,16,2016,471,Iowa,IA,9.8,ia
+Iowa,16,2017,465,Iowa,IA,9.1,ia
+Iowa,16,2018,457,Iowa,IA,8.9,ia
+Kansas,17,1999,222,Kansas,KS,12.3,ks
+Kansas,17,2000,224,Kansas,KS,8.0,ks
+Kansas,17,2001,234,Kansas,KS,10.1,ks
+Kansas,17,2002,282,Kansas,KS,10.1,ks
+Kansas,17,2003,295,Kansas,KS,10.8,ks
+Kansas,17,2004,306,Kansas,KS,11.4,ks
+Kansas,17,2005,319,Kansas,KS,12.5,ks
+Kansas,17,2006,330,Kansas,KS,12.8,ks
+Kansas,17,2007,358,Kansas,KS,11.7,ks
+Kansas,17,2008,373,Kansas,KS,12.7,ks
+Kansas,17,2009,457,Kansas,KS,13.7,ks
+Kansas,17,2010,461,Kansas,KS,14.5,ks
+Kansas,17,2011,479,Kansas,KS,14.0,ks
+Kansas,17,2012,487,Kansas,KS,14.0,ks
+Kansas,17,2013,508,Kansas,KS,13.2,ks
+Kansas,17,2014,511,Kansas,KS,12.1,ks
+Kansas,17,2015,512,Kansas,KS,14.2,ks
+Kansas,17,2016,498,Kansas,KS,11.2,ks
+Kansas,17,2017,488,Kansas,KS,14.7,ks
+Kansas,17,2018,476,Kansas,KS,7.5,ks
+Kentucky,18,1999,471,Kentucky,KY,12.1,ky
+Kentucky,18,2000,478,Kentucky,KY,12.6,ky
+Kentucky,18,2001,496,Kentucky,KY,12.6,ky
+Kentucky,18,2002,569,Kentucky,KY,14.2,ky
+Kentucky,18,2003,589,Kentucky,KY,14.4,ky
+Kentucky,18,2004,609,Kentucky,KY,17.8,ky
+Kentucky,18,2005,643,Kentucky,KY,14.8,ky
+Kentucky,18,2006,677,Kentucky,KY,16.8,ky
+Kentucky,18,2007,735,Kentucky,KY,15.5,ky
+Kentucky,18,2008,768,Kentucky,KY,17.1,ky
+Kentucky,18,2009,894,Kentucky,KY,17.0,ky
+Kentucky,18,2010,895,Kentucky,KY,17.7,ky
+Kentucky,18,2011,925,Kentucky,KY,17.9,ky
+Kentucky,18,2012,941,Kentucky,KY,17.9,ky
+Kentucky,18,2013,980,Kentucky,KY,20.0,ky
+Kentucky,18,2014,986,Kentucky,KY,20.0,ky
+Kentucky,18,2015,990,Kentucky,KY,19.5,ky
+Kentucky,18,2016,968,Kentucky,KY,15.2,ky
+Kentucky,18,2017,957,Kentucky,KY,14.4,ky
+Kentucky,18,2018,952,Kentucky,KY,15.7,ky
+Louisiana,19,1999,901,Louisiana,LA,19.2,la
+Louisiana,19,2000,922,Louisiana,LA,17.2,la
+Louisiana,19,2001,965,Louisiana,LA,16.2,la
+Louisiana,19,2002,1075,Louisiana,LA,17.5,la
+Louisiana,19,2003,1116,Louisiana,LA,17.0,la
+Louisiana,19,2004,1156,Louisiana,LA,16.8,la
+Louisiana,19,2005,1089,Louisiana,LA,18.3,la
+Louisiana,19,2006,1156,Louisiana,LA,17.0,la
+Louisiana,19,2007,1216,Louisiana,LA,16.1,la
+Louisiana,19,2008,1223,Louisiana,LA,18.2,la
+Louisiana,19,2009,1383,Louisiana,LA,14.3,la
+Louisiana,19,2010,1378,Louisiana,LA,21.5,la
+Louisiana,19,2011,1415,Louisiana,LA,21.1,la
+Louisiana,19,2012,1422,Louisiana,LA,21.1,la
+Louisiana,19,2013,1454,Louisiana,LA,19.2,la
+Louisiana,19,2014,1461,Louisiana,LA,23.1,la
+Louisiana,19,2015,1486,Louisiana,LA,18.6,la
+Louisiana,19,2016,1454,Louisiana,LA,20.2,la
+Louisiana,19,2017,1447,Louisiana,LA,21.4,la
+Louisiana,19,2018,1434,Louisiana,LA,19.0,la
+Maine,20,1999,114,Maine,ME,10.6,me
+Maine,20,2000,112,Maine,ME,10.1,me
+Maine,20,2001,116,Maine,ME,10.3,me
+Maine,20,2002,133,Maine,ME,13.4,me
+Maine,20,2003,135,Maine,ME,11.6,me
+Maine,20,2004,138,Maine,ME,11.6,me
+Maine,20,2005,145,Maine,ME,12.6,me
+Maine,20,2006,151,Maine,ME,10.2,me
+Maine,20,2007,163,Maine,ME,10.9,me
+Maine,20,2008,167,Maine,ME,12.0,me
+Maine,20,2009,196,Maine,ME,11.4,me
+Maine,20,2010,194,Maine,ME,12.6,me
+Maine,20,2011,200,Maine,ME,12.8,me
+Maine,20,2012,206,Maine,ME,12.8,me
+Maine,20,2013,214,Maine,ME,12.3,me
+Maine,20,2014,217,Maine,ME,14.6,me
+Maine,20,2015,217,Maine,ME,12.3,me
+Maine,20,2016,212,Maine,ME,12.7,me
+Maine,20,2017,208,Maine,ME,12.0,me
+Maine,20,2018,203,Maine,ME,11.6,me
+Maryland,21,1999,498,Maryland,MD,7.3,md
+Maryland,21,2000,493,Maryland,MD,7.4,md
+Maryland,21,2001,500,Maryland,MD,7.2,md
+Maryland,21,2002,565,Maryland,MD,7.4,md
+Maryland,21,2003,586,Maryland,MD,8.6,md
+Maryland,21,2004,597,Maryland,MD,9.9,md
+Maryland,21,2005,621,Maryland,MD,9.7,md
+Maryland,21,2006,643,Maryland,MD,8.4,md
+Maryland,21,2007,693,Maryland,MD,8.8,md
+Maryland,21,2008,722,Maryland,MD,8.7,md
+Maryland,21,2009,842,Maryland,MD,9.6,md
+Maryland,21,2010,860,Maryland,MD,10.9,md
+Maryland,21,2011,903,Maryland,MD,9.9,md
+Maryland,21,2012,931,Maryland,MD,9.9,md
+Maryland,21,2013,991,Maryland,MD,10.3,md
+Maryland,21,2014,1017,Maryland,MD,9.8,md
+Maryland,21,2015,1012,Maryland,MD,9.6,md
+Maryland,21,2016,969,Maryland,MD,7.1,md
+Maryland,21,2017,955,Maryland,MD,7.8,md
+Maryland,21,2018,940,Maryland,MD,8.0,md
+Massachusetts,22,1999,392,Massachusetts,MA,11.8,ma
+Massachusetts,22,2000,385,Massachusetts,MA,9.8,ma
+Massachusetts,22,2001,394,Massachusetts,MA,8.9,ma
+Massachusetts,22,2002,446,Massachusetts,MA,10.0,ma
+Massachusetts,22,2003,468,Massachusetts,MA,10.3,ma
+Massachusetts,22,2004,493,Massachusetts,MA,9.3,ma
+Massachusetts,22,2005,518,Massachusetts,MA,10.1,ma
+Massachusetts,22,2006,541,Massachusetts,MA,12.0,ma
+Massachusetts,22,2007,593,Massachusetts,MA,11.2,ma
+Massachusetts,22,2008,622,Massachusetts,MA,11.3,ma
+Massachusetts,22,2009,731,Massachusetts,MA,10.8,ma
+Massachusetts,22,2010,741,Massachusetts,MA,10.9,ma
+Massachusetts,22,2011,783,Massachusetts,MA,11.3,ma
+Massachusetts,22,2012,810,Massachusetts,MA,11.3,ma
+Massachusetts,22,2013,861,Massachusetts,MA,11.9,ma
+Massachusetts,22,2014,874,Massachusetts,MA,13.6,ma
+Massachusetts,22,2015,871,Massachusetts,MA,11.5,ma
+Massachusetts,22,2016,845,Massachusetts,MA,9.6,ma
+Massachusetts,22,2017,836,Massachusetts,MA,10.6,ma
+Massachusetts,22,2018,824,Massachusetts,MA,8.7,ma
+Michigan,23,1999,868,Michigan,MI,9.7,mi
+Michigan,23,2000,880,Michigan,MI,9.9,mi
+Michigan,23,2001,933,Michigan,MI,9.4,mi
+Michigan,23,2002,1058,Michigan,MI,11.6,mi
+Michigan,23,2003,1102,Michigan,MI,11.4,mi
+Michigan,23,2004,1169,Michigan,MI,13.3,mi
+Michigan,23,2005,1246,Michigan,MI,12.0,mi
+Michigan,23,2006,1333,Michigan,MI,13.3,mi
+Michigan,23,2007,1457,Michigan,MI,10.8,mi
+Michigan,23,2008,1527,Michigan,MI,13.0,mi
+Michigan,23,2009,1798,Michigan,MI,14.0,mi
+Michigan,23,2010,1823,Michigan,MI,15.7,mi
+Michigan,23,2011,1912,Michigan,MI,13.7,mi
+Michigan,23,2012,1943,Michigan,MI,13.7,mi
+Michigan,23,2013,2010,Michigan,MI,14.5,mi
+Michigan,23,2014,2031,Michigan,MI,14.8,mi
+Michigan,23,2015,2020,Michigan,MI,12.8,mi
+Michigan,23,2016,1968,Michigan,MI,11.1,mi
+Michigan,23,2017,1944,Michigan,MI,12.7,mi
+Michigan,23,2018,1900,Michigan,MI,10.5,mi
+Minnesota,24,1999,305,Minnesota,MN,7.3,mn
+Minnesota,24,2000,305,Minnesota,MN,5.7,mn
+Minnesota,24,2001,321,Minnesota,MN,7.4,mn
+Minnesota,24,2002,378,Minnesota,MN,6.5,mn
+Minnesota,24,2003,397,Minnesota,MN,7.4,mn
+Minnesota,24,2004,412,Minnesota,MN,7.0,mn
+Minnesota,24,2005,442,Minnesota,MN,8.1,mn
+Minnesota,24,2006,474,Minnesota,MN,8.2,mn
+Minnesota,24,2007,523,Minnesota,MN,9.3,mn
+Minnesota,24,2008,548,Minnesota,MN,9.9,mn
+Minnesota,24,2009,662,Minnesota,MN,11.1,mn
+Minnesota,24,2010,666,Minnesota,MN,10.8,mn
+Minnesota,24,2011,696,Minnesota,MN,10.0,mn
+Minnesota,24,2012,718,Minnesota,MN,10.0,mn
+Minnesota,24,2013,753,Minnesota,MN,12.0,mn
+Minnesota,24,2014,761,Minnesota,MN,8.3,mn
+Minnesota,24,2015,760,Minnesota,MN,7.8,mn
+Minnesota,24,2016,744,Minnesota,MN,8.7,mn
+Minnesota,24,2017,728,Minnesota,MN,9.2,mn
+Minnesota,24,2018,710,Minnesota,MN,7.9,mn
+Mississippi,25,1999,651,Mississippi,MS,16.2,ms
+Mississippi,25,2000,664,Mississippi,MS,14.9,ms
+Mississippi,25,2001,688,Mississippi,MS,19.3,ms
+Mississippi,25,2002,760,Mississippi,MS,18.4,ms
+Mississippi,25,2003,777,Mississippi,MS,16.0,ms
+Mississippi,25,2004,797,Mississippi,MS,18.7,ms
+Mississippi,25,2005,831,Mississippi,MS,20.1,ms
+Mississippi,25,2006,888,Mississippi,MS,20.6,ms
+Mississippi,25,2007,945,Mississippi,MS,22.6,ms
+Mississippi,25,2008,963,Mississippi,MS,18.1,ms
+Mississippi,25,2009,1074,Mississippi,MS,23.1,ms
+Mississippi,25,2010,1079,Mississippi,MS,22.5,ms
+Mississippi,25,2011,1107,Mississippi,MS,22.0,ms
+Mississippi,25,2012,1097,Mississippi,MS,22.0,ms
+Mississippi,25,2013,1118,Mississippi,MS,22.5,ms
+Mississippi,25,2014,1128,Mississippi,MS,22.1,ms
+Mississippi,25,2015,1128,Mississippi,MS,19.1,ms
+Mississippi,25,2016,1080,Mississippi,MS,21.1,ms
+Mississippi,25,2017,1073,Mississippi,MS,18.3,ms
+Mississippi,25,2018,1057,Mississippi,MS,19.6,ms
+Missouri,26,1999,609,Missouri,MO,11.7,mo
+Missouri,26,2000,610,Missouri,MO,9.2,mo
+Missouri,26,2001,631,Missouri,MO,9.7,mo
+Missouri,26,2002,722,Missouri,MO,9.9,mo
+Missouri,26,2003,750,Missouri,MO,10.7,mo
+Missouri,26,2004,784,Missouri,MO,12.2,mo
+Missouri,26,2005,827,Missouri,MO,11.6,mo
+Missouri,26,2006,872,Missouri,MO,11.4,mo
+Missouri,26,2007,942,Missouri,MO,12.8,mo
+Missouri,26,2008,980,Missouri,MO,13.3,mo
+Missouri,26,2009,1147,Missouri,MO,15.5,mo
+Missouri,26,2010,1155,Missouri,MO,15.0,mo
+Missouri,26,2011,1197,Missouri,MO,15.2,mo
+Missouri,26,2012,1222,Missouri,MO,15.2,mo
+Missouri,26,2013,1267,Missouri,MO,13.7,mo
+Missouri,26,2014,1266,Missouri,MO,10.4,mo
+Missouri,26,2015,1270,Missouri,MO,9.8,mo
+Missouri,26,2016,1235,Missouri,MO,13.0,mo
+Missouri,26,2017,1216,Missouri,MO,11.1,mo
+Missouri,26,2018,1195,Missouri,MO,12.4,mo
+Montana,27,1999,99,Montana,MT,15.8,mt
+Montana,27,2000,100,Montana,MT,14.1,mt
+Montana,27,2001,103,Montana,MT,13.3,mt
+Montana,27,2002,119,Montana,MT,13.5,mt
+Montana,27,2003,121,Montana,MT,15.1,mt
+Montana,27,2004,123,Montana,MT,14.2,mt
+Montana,27,2005,126,Montana,MT,13.8,mt
+Montana,27,2006,129,Montana,MT,13.5,mt
+Montana,27,2007,137,Montana,MT,13.0,mt
+Montana,27,2008,142,Montana,MT,12.9,mt
+Montana,27,2009,171,Montana,MT,13.5,mt
+Montana,27,2010,167,Montana,MT,14.5,mt
+Montana,27,2011,169,Montana,MT,13.4,mt
+Montana,27,2012,170,Montana,MT,13.4,mt
+Montana,27,2013,175,Montana,MT,14.5,mt
+Montana,27,2014,173,Montana,MT,12.0,mt
+Montana,27,2015,174,Montana,MT,11.9,mt
+Montana,27,2016,172,Montana,MT,11.7,mt
+Montana,27,2017,168,Montana,MT,9.7,mt
+Montana,27,2018,164,Montana,MT,10.3,mt
+Nebraska,28,1999,140,Nebraska,NE,11.0,ne
+Nebraska,28,2000,140,Nebraska,NE,8.6,ne
+Nebraska,28,2001,148,Nebraska,NE,9.4,ne
+Nebraska,28,2002,177,Nebraska,NE,10.6,ne
+Nebraska,28,2003,181,Nebraska,NE,9.8,ne
+Nebraska,28,2004,189,Nebraska,NE,9.5,ne
+Nebraska,28,2005,199,Nebraska,NE,9.5,ne
+Nebraska,28,2006,208,Nebraska,NE,10.2,ne
+Nebraska,28,2007,225,Nebraska,NE,9.9,ne
+Nebraska,28,2008,233,Nebraska,NE,10.6,ne
+Nebraska,28,2009,281,Nebraska,NE,9.9,ne
+Nebraska,28,2010,283,Nebraska,NE,10.2,ne
+Nebraska,28,2011,296,Nebraska,NE,12.2,ne
+Nebraska,28,2012,303,Nebraska,NE,12.2,ne
+Nebraska,28,2013,317,Nebraska,NE,11.0,ne
+Nebraska,28,2014,319,Nebraska,NE,11.8,ne
+Nebraska,28,2015,322,Nebraska,NE,10.3,ne
+Nebraska,28,2016,314,Nebraska,NE,9.6,ne
+Nebraska,28,2017,311,Nebraska,NE,10.4,ne
+Nebraska,28,2018,304,Nebraska,NE,10.5,ne
+Nevada,29,1999,191,Nevada,NV,11.3,nv
+Nevada,29,2000,198,Nevada,NV,8.8,nv
+Nevada,29,2001,214,Nevada,NV,7.1,nv
+Nevada,29,2002,251,Nevada,NV,8.9,nv
+Nevada,29,2003,265,Nevada,NV,10.9,nv
+Nevada,29,2004,276,Nevada,NV,10.9,nv
+Nevada,29,2005,293,Nevada,NV,10.6,nv
+Nevada,29,2006,312,Nevada,NV,9.5,nv
+Nevada,29,2007,351,Nevada,NV,9.7,nv
+Nevada,29,2008,374,Nevada,NV,10.8,nv
+Nevada,29,2009,477,Nevada,NV,13.0,nv
+Nevada,29,2010,520,Nevada,NV,16.6,nv
+Nevada,29,2011,540,Nevada,NV,15.8,nv
+Nevada,29,2012,554,Nevada,NV,15.8,nv
+Nevada,29,2013,606,Nevada,NV,17.4,nv
+Nevada,29,2014,623,Nevada,NV,17.0,nv
+Nevada,29,2015,640,Nevada,NV,13.0,nv
+Nevada,29,2016,636,Nevada,NV,10.1,nv
+Nevada,29,2017,637,Nevada,NV,13.7,nv
+Nevada,29,2018,632,Nevada,NV,13.0,nv
+New Hampshire,30,1999,76,New Hampshire,NH,7.6,nh
+New Hampshire,30,2000,73,New Hampshire,NH,4.5,nh
+New Hampshire,30,2001,76,New Hampshire,NH,6.5,nh
+New Hampshire,30,2002,90,New Hampshire,NH,5.8,nh
+New Hampshire,30,2003,93,New Hampshire,NH,5.8,nh
+New Hampshire,30,2004,97,New Hampshire,NH,5.5,nh
+New Hampshire,30,2005,100,New Hampshire,NH,5.6,nh
+New Hampshire,30,2006,105,New Hampshire,NH,5.4,nh
+New Hampshire,30,2007,116,New Hampshire,NH,5.8,nh
+New Hampshire,30,2008,119,New Hampshire,NH,7.0,nh
+New Hampshire,30,2009,143,New Hampshire,NH,7.8,nh
+New Hampshire,30,2010,145,New Hampshire,NH,6.5,nh
+New Hampshire,30,2011,150,New Hampshire,NH,8.1,nh
+New Hampshire,30,2012,154,New Hampshire,NH,8.1,nh
+New Hampshire,30,2013,159,New Hampshire,NH,9.0,nh
+New Hampshire,30,2014,158,New Hampshire,NH,7.2,nh
+New Hampshire,30,2015,156,New Hampshire,NH,7.3,nh
+New Hampshire,30,2016,151,New Hampshire,NH,6.4,nh
+New Hampshire,30,2017,146,New Hampshire,NH,6.6,nh
+New Hampshire,30,2018,141,New Hampshire,NH,6.1,nh
+New Jersey,31,1999,695,New Jersey,NJ,7.8,nj
+New Jersey,31,2000,701,New Jersey,NJ,7.3,nj
+New Jersey,31,2001,734,New Jersey,NJ,8.1,nj
+New Jersey,31,2002,812,New Jersey,NJ,7.9,nj
+New Jersey,31,2003,838,New Jersey,NJ,8.6,nj
+New Jersey,31,2004,858,New Jersey,NJ,8.0,nj
+New Jersey,31,2005,890,New Jersey,NJ,6.8,nj
+New Jersey,31,2006,924,New Jersey,NJ,8.8,nj
+New Jersey,31,2007,1007,New Jersey,NJ,8.7,nj
+New Jersey,31,2008,1049,New Jersey,NJ,9.2,nj
+New Jersey,31,2009,1199,New Jersey,NJ,9.3,nj
+New Jersey,31,2010,1217,New Jersey,NJ,11.1,nj
+New Jersey,31,2011,1274,New Jersey,NJ,9.3,nj
+New Jersey,31,2012,1302,New Jersey,NJ,9.3,nj
+New Jersey,31,2013,1415,New Jersey,NJ,11.1,nj
+New Jersey,31,2014,1444,New Jersey,NJ,11.3,nj
+New Jersey,31,2015,1453,New Jersey,NJ,11.2,nj
+New Jersey,31,2016,1420,New Jersey,NJ,9.4,nj
+New Jersey,31,2017,1419,New Jersey,NJ,8.6,nj
+New Jersey,31,2018,1402,New Jersey,NJ,8.2,nj
+New Mexico,32,1999,293,New Mexico,NM,20.9,nm
+New Mexico,32,2000,291,New Mexico,NM,17.5,nm
+New Mexico,32,2001,309,New Mexico,NM,18.0,nm
+New Mexico,32,2002,347,New Mexico,NM,17.9,nm
+New Mexico,32,2003,357,New Mexico,NM,18.1,nm
+New Mexico,32,2004,364,New Mexico,NM,16.5,nm
+New Mexico,32,2005,373,New Mexico,NM,17.9,nm
+New Mexico,32,2006,385,New Mexico,NM,16.9,nm
+New Mexico,32,2007,414,New Mexico,NM,14.0,nm
+New Mexico,32,2008,427,New Mexico,NM,19.3,nm
+New Mexico,32,2009,496,New Mexico,NM,19.3,nm
+New Mexico,32,2010,491,New Mexico,NM,18.3,nm
+New Mexico,32,2011,503,New Mexico,NM,20.4,nm
+New Mexico,32,2012,511,New Mexico,NM,20.4,nm
+New Mexico,32,2013,528,New Mexico,NM,21.7,nm
+New Mexico,32,2014,529,New Mexico,NM,20.0,nm
+New Mexico,32,2015,538,New Mexico,NM,19.7,nm
+New Mexico,32,2016,527,New Mexico,NM,17.8,nm
+New Mexico,32,2017,516,New Mexico,NM,18.6,nm
+New Mexico,32,2018,501,New Mexico,NM,16.6,nm
+New York,33,1999,2107,New York,NY,14.2,ny
+New York,33,2000,2203,New York,NY,13.9,ny
+New York,33,2001,2360,New York,NY,14.2,ny
+New York,33,2002,2566,New York,NY,14.0,ny
+New York,33,2003,2601,New York,NY,14.3,ny
+New York,33,2004,2673,New York,NY,15.0,ny
+New York,33,2005,2775,New York,NY,14.5,ny
+New York,33,2006,2903,New York,NY,14.0,ny
+New York,33,2007,3142,New York,NY,14.5,ny
+New York,33,2008,3241,New York,NY,14.2,ny
+New York,33,2009,3647,New York,NY,15.8,ny
+New York,33,2010,3739,New York,NY,16.0,ny
+New York,33,2011,3888,New York,NY,17.2,ny
+New York,33,2012,3989,New York,NY,17.2,ny
+New York,33,2013,4226,New York,NY,14.5,ny
+New York,33,2014,4273,New York,NY,14.0,ny
+New York,33,2015,4258,New York,NY,14.2,ny
+New York,33,2016,4092,New York,NY,11.9,ny
+New York,33,2017,3995,New York,NY,13.4,ny
+New York,33,2018,3864,New York,NY,11.1,ny
+North Carolina,34,1999,1060,North Carolina,NC,13.8,nc
+North Carolina,34,2000,1078,North Carolina,NC,12.5,nc
+North Carolina,34,2001,1138,North Carolina,NC,12.5,nc
+North Carolina,34,2002,1310,North Carolina,NC,14.3,nc
+North Carolina,34,2003,1374,North Carolina,NC,15.7,nc
+North Carolina,34,2004,1434,North Carolina,NC,14.6,nc
+North Carolina,34,2005,1526,North Carolina,NC,13.1,nc
+North Carolina,34,2006,1601,North Carolina,NC,13.8,nc
+North Carolina,34,2007,1762,North Carolina,NC,15.5,nc
+North Carolina,34,2008,1819,North Carolina,NC,13.9,nc
+North Carolina,34,2009,2095,North Carolina,NC,16.9,nc
+North Carolina,34,2010,2099,North Carolina,NC,17.4,nc
+North Carolina,34,2011,2201,North Carolina,NC,17.2,nc
+North Carolina,34,2012,2249,North Carolina,NC,17.2,nc
+North Carolina,34,2013,2350,North Carolina,NC,18.6,nc
+North Carolina,34,2014,2382,North Carolina,NC,17.1,nc
+North Carolina,34,2015,2396,North Carolina,NC,15.3,nc
+North Carolina,34,2016,2327,North Carolina,NC,13.6,nc
+North Carolina,34,2017,2311,North Carolina,NC,14.5,nc
+North Carolina,34,2018,2277,North Carolina,NC,13.1,nc
+North Dakota,35,1999,52,North Dakota,ND,13.1,nd
+North Dakota,35,2000,52,North Dakota,ND,10.4,nd
+North Dakota,35,2001,54,North Dakota,ND,13.8,nd
+North Dakota,35,2002,63,North Dakota,ND,11.6,nd
+North Dakota,35,2003,63,North Dakota,ND,9.7,nd
+North Dakota,35,2004,65,North Dakota,ND,9.7,nd
+North Dakota,35,2005,66,North Dakota,ND,11.2,nd
+North Dakota,35,2006,68,North Dakota,ND,11.4,nd
+North Dakota,35,2007,72,North Dakota,ND,9.3,nd
+North Dakota,35,2008,73,North Dakota,ND,11.8,nd
+North Dakota,35,2009,87,North Dakota,ND,10.9,nd
+North Dakota,35,2010,85,North Dakota,ND,12.6,nd
+North Dakota,35,2011,87,North Dakota,ND,11.4,nd
+North Dakota,35,2012,88,North Dakota,ND,11.4,nd
+North Dakota,35,2013,91,North Dakota,ND,9.9,nd
+North Dakota,35,2014,91,North Dakota,ND,9.7,nd
+North Dakota,35,2015,94,North Dakota,ND,10.7,nd
+North Dakota,35,2016,94,North Dakota,ND,11.1,nd
+North Dakota,35,2017,95,North Dakota,ND,11.3,nd
+North Dakota,35,2018,94,North Dakota,ND,9.7,nd
+Ohio,36,1999,1054,Ohio,OH,12.0,oh
+Ohio,36,2000,1074,Ohio,OH,10.0,oh
+Ohio,36,2001,1131,Ohio,OH,10.5,oh
+Ohio,36,2002,1290,Ohio,OH,9.8,oh
+Ohio,36,2003,1344,Ohio,OH,10.9,oh
+Ohio,36,2004,1403,Ohio,OH,11.6,oh
+Ohio,36,2005,1471,Ohio,OH,12.3,oh
+Ohio,36,2006,1554,Ohio,OH,12.1,oh
+Ohio,36,2007,1697,Ohio,OH,12.8,oh
+Ohio,36,2008,1780,Ohio,OH,13.7,oh
+Ohio,36,2009,2084,Ohio,OH,13.3,oh
+Ohio,36,2010,2102,Ohio,OH,15.4,oh
+Ohio,36,2011,2183,Ohio,OH,15.4,oh
+Ohio,36,2012,2236,Ohio,OH,15.4,oh
+Ohio,36,2013,2326,Ohio,OH,13.7,oh
+Ohio,36,2014,2339,Ohio,OH,15.6,oh
+Ohio,36,2015,2354,Ohio,OH,13.6,oh
+Ohio,36,2016,2292,Ohio,OH,13.7,oh
+Ohio,36,2017,2262,Ohio,OH,12.7,oh
+Ohio,36,2018,2217,Ohio,OH,11.9,oh
+Oklahoma,37,1999,456,Oklahoma,OK,12.8,ok
+Oklahoma,37,2000,458,Oklahoma,OK,14.9,ok
+Oklahoma,37,2001,470,Oklahoma,OK,15.1,ok
+Oklahoma,37,2002,546,Oklahoma,OK,14.1,ok
+Oklahoma,37,2003,567,Oklahoma,OK,12.8,ok
+Oklahoma,37,2004,585,Oklahoma,OK,10.8,ok
+Oklahoma,37,2005,607,Oklahoma,OK,15.6,ok
+Oklahoma,37,2006,622,Oklahoma,OK,15.2,ok
+Oklahoma,37,2007,660,Oklahoma,OK,13.4,ok
+Oklahoma,37,2008,674,Oklahoma,OK,13.6,ok
+Oklahoma,37,2009,808,Oklahoma,OK,12.9,ok
+Oklahoma,37,2010,805,Oklahoma,OK,16.3,ok
+Oklahoma,37,2011,821,Oklahoma,OK,18.0,ok
+Oklahoma,37,2012,822,Oklahoma,OK,18.0,ok
+Oklahoma,37,2013,854,Oklahoma,OK,14.0,ok
+Oklahoma,37,2014,854,Oklahoma,OK,17.3,ok
+Oklahoma,37,2015,877,Oklahoma,OK,14.2,ok
+Oklahoma,37,2016,872,Oklahoma,OK,14.6,ok
+Oklahoma,37,2017,859,Oklahoma,OK,12.6,ok
+Oklahoma,37,2018,845,Oklahoma,OK,13.4,ok
+Oregon,38,1999,297,Oregon,OR,12.6,or
+Oregon,38,2000,297,Oregon,OR,10.9,or
+Oregon,38,2001,313,Oregon,OR,11.8,or
+Oregon,38,2002,353,Oregon,OR,10.9,or
+Oregon,38,2003,360,Oregon,OR,12.5,or
+Oregon,38,2004,376,Oregon,OR,11.8,or
+Oregon,38,2005,391,Oregon,OR,12.0,or
+Oregon,38,2006,403,Oregon,OR,11.8,or
+Oregon,38,2007,443,Oregon,OR,12.8,or
+Oregon,38,2008,463,Oregon,OR,10.6,or
+Oregon,38,2009,553,Oregon,OR,13.4,or
+Oregon,38,2010,549,Oregon,OR,14.3,or
+Oregon,38,2011,570,Oregon,OR,13.5,or
+Oregon,38,2012,586,Oregon,OR,13.5,or
+Oregon,38,2013,614,Oregon,OR,15.1,or
+Oregon,38,2014,617,Oregon,OR,14.4,or
+Oregon,38,2015,617,Oregon,OR,11.9,or
+Oregon,38,2016,595,Oregon,OR,11.8,or
+Oregon,38,2017,577,Oregon,OR,10.2,or
+Oregon,38,2018,555,Oregon,OR,9.7,or
+Pennsylvania,39,1999,1042,Pennsylvania,PA,9.3,pa
+Pennsylvania,39,2000,1041,Pennsylvania,PA,8.6,pa
+Pennsylvania,39,2001,1075,Pennsylvania,PA,9.6,pa
+Pennsylvania,39,2002,1213,Pennsylvania,PA,9.5,pa
+Pennsylvania,39,2003,1255,Pennsylvania,PA,10.5,pa
+Pennsylvania,39,2004,1304,Pennsylvania,PA,11.4,pa
+Pennsylvania,39,2005,1377,Pennsylvania,PA,11.2,pa
+Pennsylvania,39,2006,1441,Pennsylvania,PA,11.3,pa
+Pennsylvania,39,2007,1560,Pennsylvania,PA,10.4,pa
+Pennsylvania,39,2008,1612,Pennsylvania,PA,11.0,pa
+Pennsylvania,39,2009,1865,Pennsylvania,PA,11.1,pa
+Pennsylvania,39,2010,1858,Pennsylvania,PA,12.2,pa
+Pennsylvania,39,2011,1930,Pennsylvania,PA,13.9,pa
+Pennsylvania,39,2012,1976,Pennsylvania,PA,13.9,pa
+Pennsylvania,39,2013,2103,Pennsylvania,PA,12.4,pa
+Pennsylvania,39,2014,2134,Pennsylvania,PA,12.5,pa
+Pennsylvania,39,2015,2150,Pennsylvania,PA,12.3,pa
+Pennsylvania,39,2016,2119,Pennsylvania,PA,11.1,pa
+Pennsylvania,39,2017,2096,Pennsylvania,PA,11.2,pa
+Pennsylvania,39,2018,2067,Pennsylvania,PA,11.8,pa
+Rhode Island,40,1999,87,Rhode Island,RI,10.0,ri
+Rhode Island,40,2000,89,Rhode Island,RI,10.2,ri
+Rhode Island,40,2001,92,Rhode Island,RI,9.6,ri
+Rhode Island,40,2002,106,Rhode Island,RI,11.0,ri
+Rhode Island,40,2003,108,Rhode Island,RI,11.5,ri
+Rhode Island,40,2004,113,Rhode Island,RI,11.5,ri
+Rhode Island,40,2005,120,Rhode Island,RI,12.1,ri
+Rhode Island,40,2006,126,Rhode Island,RI,10.5,ri
+Rhode Island,40,2007,141,Rhode Island,RI,9.5,ri
+Rhode Island,40,2008,148,Rhode Island,RI,12.7,ri
+Rhode Island,40,2009,168,Rhode Island,RI,13.0,ri
+Rhode Island,40,2010,169,Rhode Island,RI,14.0,ri
+Rhode Island,40,2011,176,Rhode Island,RI,13.6,ri
+Rhode Island,40,2012,181,Rhode Island,RI,13.6,ri
+Rhode Island,40,2013,197,Rhode Island,RI,13.5,ri
+Rhode Island,40,2014,197,Rhode Island,RI,11.3,ri
+Rhode Island,40,2015,196,Rhode Island,RI,11.8,ri
+Rhode Island,40,2016,191,Rhode Island,RI,11.4,ri
+Rhode Island,40,2017,189,Rhode Island,RI,12.2,ri
+Rhode Island,40,2018,186,Rhode Island,RI,8.9,ri
+South Carolina,41,1999,636,South Carolina,SC,11.7,sc
+South Carolina,41,2000,648,South Carolina,SC,11.1,sc
+South Carolina,41,2001,680,South Carolina,SC,15.1,sc
+South Carolina,41,2002,764,South Carolina,SC,14.3,sc
+South Carolina,41,2003,790,South Carolina,SC,12.7,sc
+South Carolina,41,2004,824,South Carolina,SC,14.9,sc
+South Carolina,41,2005,864,South Carolina,SC,15.0,sc
+South Carolina,41,2006,903,South Carolina,SC,11.2,sc
+South Carolina,41,2007,979,South Carolina,SC,14.1,sc
+South Carolina,41,2008,1026,South Carolina,SC,14.0,sc
+South Carolina,41,2009,1165,South Carolina,SC,13.7,sc
+South Carolina,41,2010,1167,South Carolina,SC,16.9,sc
+South Carolina,41,2011,1207,South Carolina,SC,16.7,sc
+South Carolina,41,2012,1223,South Carolina,SC,16.7,sc
+South Carolina,41,2013,1266,South Carolina,SC,15.9,sc
+South Carolina,41,2014,1283,South Carolina,SC,16.5,sc
+South Carolina,41,2015,1290,South Carolina,SC,14.3,sc
+South Carolina,41,2016,1261,South Carolina,SC,14.1,sc
+South Carolina,41,2017,1244,South Carolina,SC,15.6,sc
+South Carolina,41,2018,1226,South Carolina,SC,12.8,sc
+South Dakota,42,1999,72,South Dakota,SD,7.7,sd
+South Dakota,42,2000,72,South Dakota,SD,10.7,sd
+South Dakota,42,2001,75,South Dakota,SD,8.4,sd
+South Dakota,42,2002,88,South Dakota,SD,11.5,sd
+South Dakota,42,2003,90,South Dakota,SD,12.7,sd
+South Dakota,42,2004,93,South Dakota,SD,13.5,sd
+South Dakota,42,2005,96,South Dakota,SD,11.8,sd
+South Dakota,42,2006,101,South Dakota,SD,10.7,sd
+South Dakota,42,2007,108,South Dakota,SD,9.4,sd
+South Dakota,42,2008,112,South Dakota,SD,13.1,sd
+South Dakota,42,2009,135,South Dakota,SD,14.1,sd
+South Dakota,42,2010,133,South Dakota,SD,13.6,sd
+South Dakota,42,2011,134,South Dakota,SD,12.8,sd
+South Dakota,42,2012,139,South Dakota,SD,12.8,sd
+South Dakota,42,2013,146,South Dakota,SD,10.3,sd
+South Dakota,42,2014,140,South Dakota,SD,12.8,sd
+South Dakota,42,2015,141,South Dakota,SD,13.9,sd
+South Dakota,42,2016,140,South Dakota,SD,14.5,sd
+South Dakota,42,2017,137,South Dakota,SD,10.4,sd
+South Dakota,42,2018,135,South Dakota,SD,10.6,sd
+Tennessee,43,1999,779,Tennessee,TN,11.9,tn
+Tennessee,43,2000,794,Tennessee,TN,13.5,tn
+Tennessee,43,2001,833,Tennessee,TN,14.1,tn
+Tennessee,43,2002,946,Tennessee,TN,14.8,tn
+Tennessee,43,2003,988,Tennessee,TN,14.0,tn
+Tennessee,43,2004,1022,Tennessee,TN,15.9,tn
+Tennessee,43,2005,1077,Tennessee,TN,14.9,tn
+Tennessee,43,2006,1138,Tennessee,TN,14.9,tn
+Tennessee,43,2007,1238,Tennessee,TN,14.8,tn
+Tennessee,43,2008,1307,Tennessee,TN,15.0,tn
+Tennessee,43,2009,1524,Tennessee,TN,16.5,tn
+Tennessee,43,2010,1543,Tennessee,TN,16.7,tn
+Tennessee,43,2011,1588,Tennessee,TN,18.6,tn
+Tennessee,43,2012,1612,Tennessee,TN,18.6,tn
+Tennessee,43,2013,1672,Tennessee,TN,18.1,tn
+Tennessee,43,2014,1684,Tennessee,TN,17.3,tn
+Tennessee,43,2015,1690,Tennessee,TN,14.7,tn
+Tennessee,43,2016,1631,Tennessee,TN,14.9,tn
+Tennessee,43,2017,1600,Tennessee,TN,11.5,tn
+Tennessee,43,2018,1572,Tennessee,TN,12.0,tn
+Texas,44,1999,3347,Texas,TX,15.2,tx
+Texas,44,2000,3362,Texas,TX,15.5,tx
+Texas,44,2001,3528,Texas,TX,14.9,tx
+Texas,44,2002,4044,Texas,TX,15.6,tx
+Texas,44,2003,4254,Texas,TX,17.0,tx
+Texas,44,2004,4510,Texas,TX,16.5,tx
+Texas,44,2005,4826,Texas,TX,16.2,tx
+Texas,44,2006,4996,Texas,TX,16.4,tx
+Texas,44,2007,5368,Texas,TX,16.5,tx
+Texas,44,2008,5517,Texas,TX,15.9,tx
+Texas,44,2009,6604,Texas,TX,17.3,tx
+Texas,44,2010,6693,Texas,TX,18.4,tx
+Texas,44,2011,6841,Texas,TX,17.0,tx
+Texas,44,2012,6924,Texas,TX,17.0,tx
+Texas,44,2013,7314,Texas,TX,16.8,tx
+Texas,44,2014,7189,Texas,TX,16.4,tx
+Texas,44,2015,7349,Texas,TX,14.7,tx
+Texas,44,2016,7317,Texas,TX,13.8,tx
+Texas,44,2017,7328,Texas,TX,13.4,tx
+Texas,44,2018,7272,Texas,TX,13.7,tx
+Utah,45,1999,170,Utah,UT,5.7,ut
+Utah,45,2000,170,Utah,UT,7.6,ut
+Utah,45,2001,180,Utah,UT,10.5,ut
+Utah,45,2002,223,Utah,UT,9.9,ut
+Utah,45,2003,238,Utah,UT,9.1,ut
+Utah,45,2004,249,Utah,UT,10.1,ut
+Utah,45,2005,261,Utah,UT,9.2,ut
+Utah,45,2006,267,Utah,UT,9.3,ut
+Utah,45,2007,292,Utah,UT,9.6,ut
+Utah,45,2008,321,Utah,UT,7.6,ut
+Utah,45,2009,420,Utah,UT,9.7,ut
+Utah,45,2010,435,Utah,UT,10.0,ut
+Utah,45,2011,452,Utah,UT,11.0,ut
+Utah,45,2012,456,Utah,UT,11.0,ut
+Utah,45,2013,474,Utah,UT,8.3,ut
+Utah,45,2014,471,Utah,UT,10.2,ut
+Utah,45,2015,469,Utah,UT,9.3,ut
+Utah,45,2016,451,Utah,UT,8.6,ut
+Utah,45,2017,437,Utah,UT,8.6,ut
+Utah,45,2018,425,Utah,UT,6.9,ut
+Vermont,46,1999,48,Vermont,VT,9.6,vt
+Vermont,46,2000,46,Vermont,VT,10.0,vt
+Vermont,46,2001,47,Vermont,VT,9.7,vt
+Vermont,46,2002,55,Vermont,VT,9.9,vt
+Vermont,46,2003,56,Vermont,VT,8.5,vt
+Vermont,46,2004,57,Vermont,VT,7.8,vt
+Vermont,46,2005,59,Vermont,VT,7.6,vt
+Vermont,46,2006,61,Vermont,VT,7.8,vt
+Vermont,46,2007,66,Vermont,VT,9.9,vt
+Vermont,46,2008,69,Vermont,VT,9.0,vt
+Vermont,46,2009,81,Vermont,VT,9.4,vt
+Vermont,46,2010,82,Vermont,VT,10.8,vt
+Vermont,46,2011,83,Vermont,VT,11.2,vt
+Vermont,46,2012,86,Vermont,VT,11.2,vt
+Vermont,46,2013,88,Vermont,VT,8.7,vt
+Vermont,46,2014,88,Vermont,VT,9.3,vt
+Vermont,46,2015,88,Vermont,VT,10.7,vt
+Vermont,46,2016,86,Vermont,VT,9.6,vt
+Vermont,46,2017,84,Vermont,VT,10.2,vt
+Vermont,46,2018,81,Vermont,VT,9.7,vt
+Virginia,47,1999,692,Virginia,VA,7.9,va
+Virginia,47,2000,687,Virginia,VA,8.3,va
+Virginia,47,2001,711,Virginia,VA,8.0,va
+Virginia,47,2002,824,Virginia,VA,9.9,va
+Virginia,47,2003,857,Virginia,VA,10.0,va
+Virginia,47,2004,875,Virginia,VA,9.4,va
+Virginia,47,2005,908,Virginia,VA,9.2,va
+Virginia,47,2006,944,Virginia,VA,8.6,va
+Virginia,47,2007,1028,Virginia,VA,8.6,va
+Virginia,47,2008,1077,Virginia,VA,10.3,va
+Virginia,47,2009,1264,Virginia,VA,10.7,va
+Virginia,47,2010,1286,Virginia,VA,10.7,va
+Virginia,47,2011,1334,Virginia,VA,10.6,va
+Virginia,47,2012,1374,Virginia,VA,10.6,va
+Virginia,47,2013,1441,Virginia,VA,10.4,va
+Virginia,47,2014,1458,Virginia,VA,10.2,va
+Virginia,47,2015,1473,Virginia,VA,10.9,va
+Virginia,47,2016,1432,Virginia,VA,11.4,va
+Virginia,47,2017,1417,Virginia,VA,10.3,va
+Virginia,47,2018,1398,Virginia,VA,9.8,va
+Washington,48,1999,456,Washington,WA,9.6,wa
+Washington,48,2000,456,Washington,WA,10.8,wa
+Washington,48,2001,476,Washington,WA,10.7,wa
+Washington,48,2002,551,Washington,WA,11.0,wa
+Washington,48,2003,573,Washington,WA,12.6,wa
+Washington,48,2004,601,Washington,WA,11.4,wa
+Washington,48,2005,618,Washington,WA,10.2,wa
+Washington,48,2006,636,Washington,WA,8.0,wa
+Washington,48,2007,694,Washington,WA,10.2,wa
+Washington,48,2008,725,Washington,WA,10.4,wa
+Washington,48,2009,880,Washington,WA,11.7,wa
+Washington,48,2010,879,Washington,WA,11.6,wa
+Washington,48,2011,923,Washington,WA,11.6,wa
+Washington,48,2012,957,Washington,WA,11.6,wa
+Washington,48,2013,997,Washington,WA,12.0,wa
+Washington,48,2014,994,Washington,WA,12.0,wa
+Washington,48,2015,996,Washington,WA,11.4,wa
+Washington,48,2016,966,Washington,WA,11.0,wa
+Washington,48,2017,935,Washington,WA,9.9,wa
+Washington,48,2018,900,Washington,WA,8.6,wa
+West Virginia,49,1999,211,West Virginia,WV,15.7,wv
+West Virginia,49,2000,209,West Virginia,WV,14.7,wv
+West Virginia,49,2001,213,West Virginia,WV,16.4,wv
+West Virginia,49,2002,238,West Virginia,WV,16.8,wv
+West Virginia,49,2003,243,West Virginia,WV,17.4,wv
+West Virginia,49,2004,248,West Virginia,WV,14.2,wv
+West Virginia,49,2005,256,West Virginia,WV,15.4,wv
+West Virginia,49,2006,263,West Virginia,WV,15.3,wv
+West Virginia,49,2007,281,West Virginia,WV,14.8,wv
+West Virginia,49,2008,287,West Virginia,WV,14.5,wv
+West Virginia,49,2009,338,West Virginia,WV,15.8,wv
+West Virginia,49,2010,333,West Virginia,WV,16.8,wv
+West Virginia,49,2011,336,West Virginia,WV,16.7,wv
+West Virginia,49,2012,341,West Virginia,WV,16.7,wv
+West Virginia,49,2013,355,West Virginia,WV,17.3,wv
+West Virginia,49,2014,358,West Virginia,WV,20.6,wv
+West Virginia,49,2015,364,West Virginia,WV,14.5,wv
+West Virginia,49,2016,363,West Virginia,WV,18.0,wv
+West Virginia,49,2017,351,West Virginia,WV,17.3,wv
+West Virginia,49,2018,337,West Virginia,WV,15.9,wv
+Wisconsin,50,1999,364,Wisconsin,WI,8.6,wi
+Wisconsin,50,2000,368,Wisconsin,WI,9.3,wi
+Wisconsin,50,2001,386,Wisconsin,WI,7.9,wi
+Wisconsin,50,2002,448,Wisconsin,WI,8.6,wi
+Wisconsin,50,2003,465,Wisconsin,WI,9.8,wi
+Wisconsin,50,2004,487,Wisconsin,WI,12.4,wi
+Wisconsin,50,2005,523,Wisconsin,WI,10.2,wi
+Wisconsin,50,2006,557,Wisconsin,WI,10.1,wi
+Wisconsin,50,2007,606,Wisconsin,WI,11.0,wi
+Wisconsin,50,2008,643,Wisconsin,WI,9.8,wi
+Wisconsin,50,2009,780,Wisconsin,WI,10.8,wi
+Wisconsin,50,2010,776,Wisconsin,WI,10.1,wi
+Wisconsin,50,2011,812,Wisconsin,WI,11.4,wi
+Wisconsin,50,2012,834,Wisconsin,WI,11.4,wi
+Wisconsin,50,2013,867,Wisconsin,WI,11.0,wi
+Wisconsin,50,2014,873,Wisconsin,WI,10.9,wi
+Wisconsin,50,2015,873,Wisconsin,WI,11.4,wi
+Wisconsin,50,2016,851,Wisconsin,WI,10.7,wi
+Wisconsin,50,2017,830,Wisconsin,WI,9.5,wi
+Wisconsin,50,2018,806,Wisconsin,WI,8.6,wi
+Wyoming,51,1999,47,Wyoming,WY,11.6,wy
+Wyoming,51,2000,46,Wyoming,WY,10.8,wy
+Wyoming,51,2001,47,Wyoming,WY,8.7,wy
+Wyoming,51,2002,53,Wyoming,WY,9.0,wy
+Wyoming,51,2003,55,Wyoming,WY,9.8,wy
+Wyoming,51,2004,55,Wyoming,WY,10.0,wy
+Wyoming,51,2005,55,Wyoming,WY,10.6,wy
+Wyoming,51,2006,55,Wyoming,WY,10.0,wy
+Wyoming,51,2007,58,,,,
+Wyoming,51,2008,59,Wyoming,WY,10.1,wy
+Wyoming,51,2009,74,Wyoming,WY,9.2,wy
+Wyoming,51,2010,74,Wyoming,WY,9.6,wy
+Wyoming,51,2011,75,Wyoming,WY,9.6,wy
+Wyoming,51,2012,82,Wyoming,WY,9.6,wy
+Wyoming,51,2013,84,Wyoming,WY,11.8,wy
+Wyoming,51,2014,77,Wyoming,WY,9.7,wy
+Wyoming,51,2015,80,Wyoming,WY,9.8,wy
+Wyoming,51,2016,81,Wyoming,WY,10.9,wy
+Wyoming,51,2017,79,Wyoming,WY,12.4,wy
+Wyoming,51,2018,77,Wyoming,WY,9.5,wy
