@@ -147,7 +147,7 @@ app.layout = html.Div(
                 className="row ",
             ),
 
-            ]
+            ],
             className="page")
 
 

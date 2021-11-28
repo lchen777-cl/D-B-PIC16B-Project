@@ -69,7 +69,7 @@ app.layout = html.Div(
                                              multi=False,
                                              value=1,
                                              style={'width': "90%"}
-                                             )
+                                             ),
                                         dcc.Graph(id='tax_poverty', figure={}),
                                 ],
                                 style={"overflow-x": "auto"},
