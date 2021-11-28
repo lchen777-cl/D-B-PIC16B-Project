@@ -83,7 +83,7 @@ def init_dashboard(server):
                                              ],
                                              multi=False,
                                              value=1,
-                                             style={'width': "90%"}
+                                             style={'width': "100%"}
                                              ),
                                         dcc.Graph(id='tax_poverty', figure={}),
                                 ],
@@ -121,7 +121,7 @@ def init_dashboard(server):
                                              ],
                                              multi=False,
                                              value=1,
-                                             style={'width': "90%"}
+                                             style={'width': "100%"}
                                              ),
                                         dcc.Graph(id='eitc_poverty', figure={}),
                                 ],

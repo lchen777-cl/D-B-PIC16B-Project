@@ -198,7 +198,7 @@ def init_dashboard(server):
             ),
             annotations = [dict(
                 x=0.5,
-                y=-0.3,
+                y=-0.1,
                 xref='paper',
                 yref='paper',
                 text='Source: <a href="https://www.taxcreditsforworkersandfamilies.org/state-tax-credits/">\
@@ -234,7 +234,7 @@ def init_dashboard(server):
             ),
             annotations = [dict(
                 x=0.5,
-                y=-0.3,
+                y=-0.1,
                 xref='paper',
                 yref='paper',
                 text='Source: <a href="https://www.taxpolicycenter.org/statistics/eitc-claims-state">\
