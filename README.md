@@ -19,8 +19,9 @@ To run the website, first access the repository named **D-B-Webapp**, this is wh
 
 Then run the following command on Terminal if on mac:
 
-*export FLASK_ENV=development
-flask run*
+*export FLASK_ENV=development*
+
+*flask run*
 
 # First draft questions:
 
