@@ -1,0 +1,24 @@
+{% extends "layout.jinja2" %}
+
+{% block content %}
+<div class="card">
+  <img src="{{ url_for('static', filename='img/name.png') }}" class="logo" />
+  <h1 class="site-title">{{ title }}</h1>
+  <p class="subtitle">Analysis of Tax Policy for States(View source on <a href="https://github.com/CathrynChen8/D-B-PIC16B-TAX-Project">Github</a>).</p>
+  <a href="/dashapp/" class="dash-link">
+    <span>EITC and Unemployment</span>
+    <i class="fas fa-arrow-right"></i>
+  <a href="/dashapp2/" class="dash-link">
+    <span>EITC and Poverty</span>
+    <i class="fas fa-arrow-right"></i>
+  <a href="/dashapp3/" class="dash-link">
+    <span>EITC Rules&Effects</span>
+    <i class="fas fa-arrow-right"></i>
+  </a>
+
+  <h6 class="ite-title">Website learn from:<a href="https://hackersandslackers.com/plotly-dash-with-flask/">plotly-dash-with-flask</a></p>
+  
+
+
+</div>
+{% endblock %}
