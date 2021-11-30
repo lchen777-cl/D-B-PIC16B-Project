@@ -1,6 +1,5 @@
 # D-B-PIC16B-Project
-This is an interactive web app on tax and transfer system in U.S. with a focus on EITC both nationwide and by states.
-We learn how to embed dash apps to flask from [this tutorial](https://hackersandslackers.com/plotly-dash-with-flask/).
+Analysis on tax and transfer system with a focus on EITC both nationwide and by states
 
 # Tutorial
 
@@ -11,8 +10,7 @@ The following packages(not limited to them) probably need to be downloaded by us
 1. ddtrace
 2. python-dotenv
 3. flask_assets
-4. openpyxl
-5. dash
+4. dash
 
 ## Run the website
 We mainly use a flask structure of website, with dash part added in.
