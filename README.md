@@ -25,4 +25,5 @@ Then run the following command on Terminal if on mac:
 
 # First draft questions:
 
-1. 
+1. Are there any function recommended to add to our webapp?
+2. Should we include more text analysis to our webapp?
