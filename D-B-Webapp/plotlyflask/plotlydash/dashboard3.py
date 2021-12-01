@@ -120,7 +120,7 @@ def init_dashboard(server):
                                             max=2018,
                                             value = 2018,
                                             step = None,
-                                            marks={i: 'Y{}'.format(i) for i in range(1997,2019)},
+                                            marks={i: '{}'.format(i) for i in range(1997,2019)},
                                         ),
                                 ],
                                 style={"overflow-x": "auto"},
@@ -190,7 +190,7 @@ def init_dashboard(server):
             ))
 
         fig1.update_layout(
-            width=1200, height=600,
+            width=800, height=400,
             title_text='2021 Earned Income Tax Credit by States',
             geo = dict(
                 scope='usa',
@@ -226,7 +226,7 @@ def init_dashboard(server):
             ))
 
         fig2.update_layout(
-            width=1200, height=600,
+            width=800, height=400,
             title_text=str(year) + ' Share of Returns with EITC by States',
             geo = dict(
             scope='usa',
@@ -265,7 +265,7 @@ def init_dashboard(server):
         ))
 
         fig3.update_layout(
-            width=1200, height=600,
+            width=800, height=400,
             title_text='2016 Working Families Benefited from the EITC by State',
             geo = dict(
                 scope='usa',
