@@ -1,3 +1,6 @@
+# reference from: https://hackersandslackers.com/plotly-dash-with-flask/
+# access from: https://github.com/toddbirchard/plotlydash-flask-tutorial/tree/master/plotlyflask_tutorial
+
 """Plotly Dash HTML layout override."""
 
 html_layout = """
