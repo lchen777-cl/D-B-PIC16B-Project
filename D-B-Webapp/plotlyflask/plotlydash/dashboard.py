@@ -31,7 +31,7 @@ def init_dashboard(server):
     states = pd.read_csv(DATA_PATH.joinpath("states.csv"))
 
     # Custom HTML layout
-   # dash_app.index_string = html_layout
+    # dash_app.index_string = html_layout
 
     # Create Layout
     dash_app.layout = html.Div(
@@ -119,12 +119,11 @@ def init_dashboard(server):
      Output(component_id='tax_unemployment', component_property='figure'),
      Output(component_id='eitc_unemployment', component_property='figure'),],
     [Input(component_id='slct_state1', component_property='value'),
-     Input(component_id='slct_state1', component_property='value'),]
+     Input(component_id='slct_state2', component_property='value'),]
     )
     def update_graph(option_slctd1,option_slctd2):
     #figure1
 
-    # Create figure with secondary y-axis
     # Create figure with secondary y-axis
         fig = make_subplots(specs=[[{"secondary_y": True}]])
 
@@ -178,7 +177,7 @@ def init_dashboard(server):
         fig.update_yaxes(title_text="Average Tax Rate", secondary_y=True)
 
 
-#figure 2
+    #figure 2
     # Create figure with secondary y-axis
         fig2 = make_subplots(specs=[[{"secondary_y": True}]])
 
