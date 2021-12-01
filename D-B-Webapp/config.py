@@ -1,3 +1,6 @@
+#learn from: https://hackersandslackers.com/plotly-dash-with-flask/
+#get access from: https://github.com/toddbirchard/plotlydash-flask-tutorial/tree/master/plotlyflask_tutorial
+
 """Flask config."""
 from os import environ, path
 
