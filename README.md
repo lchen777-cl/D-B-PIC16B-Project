@@ -1,6 +1,5 @@
 # D-B-PIC16B-Project
 This is an interactive web app on tax and transfer system in U.S. with a focus on EITC both nationwide and by states.
-We learn how to embed dash apps to flask from [this tutorial](https://hackersandslackers.com/plotly-dash-with-flask/).
 
 # Tutorial
 
@@ -24,11 +23,6 @@ Then run the following command on Terminal if on mac:
 *export FLASK_ENV=development*
 
 *flask run*
-
-# First draft questions:
-
-1. Are there any function recommended to add to our webapp?
-2. Should we include more text analysis to our webapp?
 
 # Citation:
 
