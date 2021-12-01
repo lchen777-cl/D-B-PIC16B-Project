@@ -22,7 +22,7 @@ def init_dashboard(server):
             "/static/dist/css/styles.css",
             "https://fonts.googleapis.com/css?family=Lato",
         ],
-        )
+        ) #build up the dash app
    
     dash_app.index_string = html_layout
     # Load DataFrame
@@ -30,8 +30,6 @@ def init_dashboard(server):
     df2 = pd.read_csv(DATA_PATH.joinpath("eitc_unemployment.csv"))
     states = pd.read_csv(DATA_PATH.joinpath("states.csv"))
 
-    # Custom HTML layout
-    # dash_app.index_string = html_layout
 
     # Create Layout
     dash_app.layout = html.Div(
@@ -120,7 +118,7 @@ def init_dashboard(server):
      Output(component_id='eitc_unemployment', component_property='figure'),],
     [Input(component_id='slct_state1', component_property='value'),
      Input(component_id='slct_state2', component_property='value'),]
-    )
+    ) #add callback
     def update_graph(option_slctd1,option_slctd2):
     #figure1
 
