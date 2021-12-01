@@ -30,7 +30,7 @@ Then run the following command on Terminal if on mac:
 1. Are there any function recommended to add to our webapp?
 2. Should we include more text analysis to our webapp?
 
-#Citation:
+# Citation:
 
 Website construction learned from: https://hackersandslackers.com/plotly-dash-with-flask/
 
