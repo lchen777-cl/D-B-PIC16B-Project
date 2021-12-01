@@ -1,3 +1,6 @@
+#learn from: https://hackersandslackers.com/plotly-dash-with-flask/
+#get access from: https://github.com/toddbirchard/plotlydash-flask-tutorial/tree/master/plotlyflask_tutorial
+
 """Compile static assets."""
 from flask import current_app as app
 from flask_assets import Bundle
