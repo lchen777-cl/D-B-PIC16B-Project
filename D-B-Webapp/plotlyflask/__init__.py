@@ -1,3 +1,5 @@
+#reference from: https://hackersandslackers.com/plotly-dash-with-flask/
+
 """Initialize Flask app."""
 from flask import Flask
 from flask_assets import Environment
