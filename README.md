@@ -1,7 +1,8 @@
 # D-B-PIC16B-Project
 This is an interactive web app on tax and transfer system in U.S. with a focus on EITC both nationwide and by states.
+We have deployed our web app using heroku at this site: 
 
-# Tutorial
+# Tutorial for Local Running
 
 ## Necessary packages
 
